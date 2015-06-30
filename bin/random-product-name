@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var getRandom = require('../');
+console.log( getRandom() + getRandom() );

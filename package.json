@@ -1,0 +1,28 @@
+{
+  "name": "random-product-name",
+  "version": "1.0.0",
+  "description": "Generates a Product Name",
+  "main": "index.js",
+  "scripts": {
+  },
+  "bin": {
+    "random-product-name": "bin/ngh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jrf0110/random-product-name.git"
+  },
+  "keywords": [
+    "Github"
+  ],
+  "author": "John Fawcett",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jrf0110/random-product-name/issues"
+  },
+  "devDependencies": {
+    
+  },
+  "dependencies": {
+  }
+}
