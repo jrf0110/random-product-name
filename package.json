@@ -1,10 +1,9 @@
 {
   "name": "random-product-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates a Product Name",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "bin": {
     "random-product-name": "bin/random-product-name"
   },
@@ -20,9 +19,6 @@
   "bugs": {
     "url": "https://github.com/jrf0110/random-product-name/issues"
   },
-  "devDependencies": {
-    
-  },
-  "dependencies": {
-  }
+  "devDependencies": {},
+  "dependencies": {}
 }
