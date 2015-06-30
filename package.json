@@ -6,7 +6,7 @@
   "scripts": {
   },
   "bin": {
-    "random-product-name": "bin/ngh"
+    "random-product-name": "bin/random-product-name"
   },
   "repository": {
     "type": "git",
